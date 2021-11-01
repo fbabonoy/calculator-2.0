@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  calculator 2.0
+//  calculator
 //
-//  Created by fernando babonoyaba on 11/1/21.
+//  Created by fernando babonoyaba on 10/26/21.
 //
 
 import UIKit
